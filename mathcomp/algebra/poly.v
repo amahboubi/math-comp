@@ -2792,3 +2792,5 @@ Notation polyC_mul := (@polyC_mul _) (only parsing).
 Notation polyC_inv := (@polyC_inv _) (only parsing).
 Notation lead_coef_opp := (@lead_coef_opp _) (only parsing).
 Notation derivn_sub := (@derivn_sub _) (only parsing).
+
+(**)
